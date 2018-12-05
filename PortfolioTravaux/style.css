@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+  background-color: #fdfdef;
+}
+
+.title {
+  font-family: 'Brandon Grotesque';
+  font-size: 50px;
+  text-align: center;
+  text-shadow: 3px 3px lightgrey;
+}
+
+.intro {
+  font-family: 'KoHo';
+  padding: 0 30px;
+  font-weight: italic;
+}
+
+.description {
+  font-family: 'KoHo';
+  padding: 0 30px;
+}
+
+.works {
+  display: flex;
+  flex-direction: column;
+}
+
+.projet {
+  padding: 15px 30px;
+  border: 1px solid #CCC;
+  box-shadow: 0px 0px 10px #BBB;
+}
+
+#LaFuite {
+  font-family: 'Brandon Grotesque';
+  text-shadow: 3px 3px lightgrey;
+  padding: 0 30px;
+}
+
+.img--text {
+  display: flex;
+  justify-content: space-around;
+}
+
+#Finsulate {
+  font-family: 'Brandon Grotesque';
+  text-shadow: 3px 3px lightgrey;
+  padding: 0 30px;
+}
+
+.reverse {
+  flex-direction: row-reverse;
+}
+
+.img--text img {
+  height: 200px;
+  width: auto;
+}
+
+#ABCterroirs {
+  font-family: 'Brandon Grotesque';
+  text-shadow: 3px 3px lightgrey;
+  padding: 0 30px;
+}
+
+#PecheAPied {
+  font-family: 'Brandon Grotesque';
+  text-shadow: 3px 3px lightgrey;
+  padding: 0 30px;
+}
